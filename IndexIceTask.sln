@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexIceTask", "IndexIceTask\IndexIceTask.csproj", "{7EA03458-E0A3-4856-A6A2-AD588166DDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingIndex", "TestingIndex\TestingIndex.csproj", "{7D3E6EE0-D2D2-48C7-AC74-668C74387203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA03458-E0A3-4856-A6A2-AD588166DDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA03458-E0A3-4856-A6A2-AD588166DDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA03458-E0A3-4856-A6A2-AD588166DDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA03458-E0A3-4856-A6A2-AD588166DDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3E6EE0-D2D2-48C7-AC74-668C74387203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3E6EE0-D2D2-48C7-AC74-668C74387203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3E6EE0-D2D2-48C7-AC74-668C74387203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3E6EE0-D2D2-48C7-AC74-668C74387203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D41D2ED-9D56-47FF-AE12-F6FDCC355DFE}
+	EndGlobalSection
+EndGlobal
